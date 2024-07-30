@@ -1,6 +1,6 @@
 ## vem sempre aq mor
 
-  Meu nome Ana Luiza Emidio
+  Meu nome é Ana Luiza Emidio
 
 Estou estudando na Alura;
 
